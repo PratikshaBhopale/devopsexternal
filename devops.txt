@@ -1,0 +1,5 @@
+To begin, sign in to your user account on GitHub.
+In the upper right corner, click the + sign icon, then choose New repository. This will take you to a page where you can enter a repository name (this tutorial uses test-repo as the repository name), description, and choose to initialize with a README (a good idea!).
+It is a good idea to add a .gitignore file by selecting one of the languages from the drop down menu, though for this tutorial it will not be necessary.
+Similarly, in practice you should choose a license to that people know whether and how they can use your code.
+Once you have entered a repository name and made your selection, select Create repository, and you will be taken to your new repository web page.
